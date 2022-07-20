@@ -5,6 +5,6 @@ This python program helps to access **co-oordinates** of cities/places through P
 **Dependency** -
 <br>
 
-`pip install geopy`
+| `pip install geopy`
 
 ------------------------
