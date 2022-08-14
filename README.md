@@ -1,6 +1,6 @@
 # Geo-access
 
-This python program helps to access **co-oordinates** of cities/places through Python module called **Geopy** .
+➡️ This Python program helps to access **Co-oordinates** of cities/places through Python module called **Geopy** .
 
 ⇒ **Dependency** -
 <br>
